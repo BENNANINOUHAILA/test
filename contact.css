@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+}
+form{
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+#form{
+    background-color: white;
+    width: 30%;
+    height: auto;
+    border-radius: 15px;
+    border: 1px solid;
+    box-shadow: 2px 2px 2px 2px gray;
+    margin: auto;
+    margin-top: 200px;
+    opacity: 0.6;
+}
+legend{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#pass{
+    margin-left: 14px;
+}
+input{
+    margin: 10px;
+}
